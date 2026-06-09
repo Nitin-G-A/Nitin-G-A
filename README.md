@@ -21,7 +21,7 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-python
+```python
 class NitinGA:
     def __init__(self):
         self.name         = "Nitin G A"
@@ -53,6 +53,7 @@ class NitinGA:
 
 me = NitinGA()
 print(me.motto())
+```
 
 <br clear="right"/>
 
