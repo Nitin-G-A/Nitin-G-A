@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NitinGA&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nitin-G-A&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <a href="mailto:nitinga2005@gmail.com"><img src="https://img.shields.io/badge/Email-nitinga2005%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nitin-g-a"><img src="https://img.shields.io/badge/LinkedIn-Nitin%20G%20A-bf91f3?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/NitinGA"><img src="https://img.shields.io/badge/GitHub-NitinGA-38bdae?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Nitin-G-A"><img src="https://img.shields.io/badge/GitHub-Nitin--G--A-38bdae?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -108,11 +108,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=NitinGA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NitinGA&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=Nitin-G-A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitin-G-A&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinGA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinGA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin-G-A&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&hide=tex,matlab,makefile">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin-G-A&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&hide=tex,matlab,makefile"/>
   </a>
 </div>
 
@@ -121,7 +121,7 @@ print(me.motto())
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NitinGA&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Nitin-G-A&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
 ---
@@ -129,7 +129,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitinGA&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitin-G-A&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -137,7 +137,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NitinGA&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nitin-G-A&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -148,9 +148,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**SysVision**](https://github.com/NitinGA/sysvision) | JavaScript · Python · HTML · CSS | Real-time OS dashboard monitoring CPU, RAM, disk & **250+ processes** with 2s auto-refresh; AES-256 encryption + JWT auth; priority scheduling for efficient resource utilization |
-| [**CloudSimEX**](https://github.com/NitinGA/cloudsimex) | JavaScript · Python · HTML · Node.js | Cloud simulation platform for VM-cloudlet scheduling in multi-tier architecture; subprocess integration for back-end computation; dynamic CSV-based result visualization |
-| [**EduGame AI**](https://github.com/NitinGA/edugame-ai) | TypeScript · React · Supabase | AI-powered learning platform with quizzes, summarization & performance analytics; role-based system (student/teacher); real-time back-end with modular scalable frontend |
+| [**SysVision**](https://github.com/Nitin-G-A/sysvision) | JavaScript · Python · HTML · CSS | Real-time OS dashboard monitoring CPU, RAM, disk & **250+ processes** with 2s auto-refresh; AES-256 encryption + JWT auth; priority scheduling for efficient resource utilization |
+| [**CloudSimEX**](https://github.com/Nitin-G-A/cloudsimex) | JavaScript · Python · HTML · Node.js | Cloud simulation platform for VM-cloudlet scheduling in multi-tier architecture; subprocess integration for back-end computation; dynamic CSV-based result visualization |
+| [**EduGame AI**](https://github.com/Nitin-G-A/edugame-ai) | TypeScript · React · Supabase | AI-powered learning platform with quizzes, summarization & performance analytics; role-based system (student/teacher); real-time back-end with modular scalable frontend |
 
 </div>
 
