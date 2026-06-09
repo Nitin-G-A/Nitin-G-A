@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20G%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nitin%20G%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Nitin+G+A+%F0%9F%91%8B;Data+Scientist+%7C+Full-Stack+Dev+%7C+AI+Builder;B.Tech+CSIT+%40+Reva+University+%7C+CGPA+8.43;Building+real-world+AI-powered+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Nitin+G+A+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+Builder;B.Tech+CSIT+%40+Reva+University+%7C+CGPA+8.43;Building+real-world+AI-powered+solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
