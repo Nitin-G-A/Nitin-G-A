@@ -21,7 +21,7 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+python
 class NitinGA:
     def __init__(self):
         self.name         = "Nitin G A"
@@ -53,7 +53,6 @@ class NitinGA:
 
 me = NitinGA()
 print(me.motto())
-```
 
 <br clear="right"/>
 
@@ -204,18 +203,3 @@ print(me.motto())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
-
-<!--
-**Nitin-G-A/Nitin-G-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
