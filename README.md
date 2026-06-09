@@ -163,10 +163,20 @@ print(me.motto())
 | | Achievement | Details |
 |:---:|:------------|:--------|
 | 🏆 | **Hackathon Award** | Won innovation award for project excellence at college-level hackathon |
-| 💻 | **150+ DSA Problems Solved** | Solved 150+ problems across LeetCode and other competitive platforms |
+| 💻 | **150 Problems Solved on LeetCode** | 44 Easy · 88 Medium · 18 Hard — 94 active days · Max streak 13 · 50 Days Badge 2026 |
 | 📜 | **Deloitte Data Analytics Simulation** | Completed Deloitte Australia Data Analytics Job Simulation — verified certificate |
 | 🎓 | **Academic Excellence** | Maintaining **8.43 CGPA** in B.Tech CSIT at Reva University |
 
+</div>
+
+---
+
+## 💻 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/0iu72bB0fl/">
+    <img src="https://leetcard.jacoblin.cool/0iu72bB0fl?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10&shots=0" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
@@ -186,9 +196,8 @@ print(me.motto())
 ## 📚 Currently Learning
 
 ```
-🧱 Data Science  →  Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
-🤖 Machine Learning  →  Supervised Learning · Model Evaluation · Feature Engineering
 🧮 DSA in C++  →  Arrays · Trees · Graphs · DP · Greedy
+🤖 Machine Learning  →  Supervised Learning · Model Evaluation · Feature Engineering
 🏗️ System Design  →  HLD · LLD · Caching · Load Balancing
 ☁️ Cloud & DevOps  →  AWS Basics · Docker · CI/CD Pipelines
 🔐 Cybersecurity  →  Cryptography · Network Security · AES · PKI
