@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nitin+G+A+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+Builder+%7C+DSA+Grinder;B.Tech+CSIT+%40+Reva+University+%7C+CGPA+8.43;150%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nitin+G+A+%F0%9F%91%8B;Full-Stack+Dev+%7C+AI+Builder+%7C+DSA+Grinder;B.Tech+CSIT+%40+Reva+University+%7C+CGPA+8.43;160%2B+LeetCode+Problems+Solved+%F0%9F%94%A5;Building+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 <p align="center">
   <a href="mailto:nitinga2005@gmail.com"><img src="https://img.shields.io/badge/Email-nitinga2005%40gmail.com-70a5fd?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nitin-g-a"><img src="https://img.shields.io/badge/LinkedIn-Nitin%20G%20A-bf91f3?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nitin-g-a-728011280"><img src="https://img.shields.io/badge/LinkedIn-Nitin%20G%20A-bf91f3?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Nitin-G-A"><img src="https://img.shields.io/badge/GitHub-Nitin--G--A-38bdae?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/0iu72bB0fl/"><img src="https://img.shields.io/badge/LeetCode-0iu72bB0fl-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/0iu72bB0fI/"><img src="https://img.shields.io/badge/LeetCode-0iu72bB0fI-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
@@ -32,7 +32,7 @@ class NitinGA:
 
         self.stack = [
             "C++", "Java", "Python", "JavaScript",
-            "React", "Node.js", "Flask", "MySQL", "PostgreSQL",
+            "React", "Node.js", "MySQL", "PostgreSQL",
         ]
 
         self.currently_learning = [
@@ -78,7 +78,6 @@ print(me.motto())
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -147,8 +146,8 @@ print(me.motto())
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/0iu72bB0fl/">
-    <img src="https://leetcard.jacoblin.cool/0iu72bB0fl?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="70%" />
+  <a href="https://leetcode.com/u/0iu72bB0fI/">
+    <img src="https://leetcard.jacoblin.cool/0iu72bB0fI?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" width="70%" />
   </a>
 </p>
 
@@ -157,10 +156,10 @@ print(me.motto())
 ## 🚀 Featured Projects
 
 ### 🛒 Smart Retail AI
-> React · Node.js · Flask · MySQL · DeepFace · Random Forest · Chart.js
+> React · Node.js · MySQL · DeepFace · Random Forest · Chart.js
 
 - Built an AI-powered mall recommendation system using **DeepFace** and **Random Forest** with demographic-based personalization
-- Implemented a **micro-service architecture** (React + Node.js + Flask) for real-time recommendation delivery
+- Implemented a **micro-service architecture** (React + Node.js) for real-time recommendation delivery
 - Created a **MySQL analytics dashboard** with Chart.js to track user demographics and recommendation insights
 
 ---
@@ -172,7 +171,7 @@ print(me.motto())
 - Implemented process control features (search, sort, kill) with **AES-256 encryption + JWT authentication**
 - Designed a scalable system with priority scheduling for efficient resource utilization
 
-🔗 [Live Demo](https://github.com/Nitin-G-A) · [GitHub Repo](https://github.com/Nitin-G-A)
+🔗 [Live Demo](https://sys-vision.vercel.app/) · [GitHub Repo](https://github.com/Nitin-G-A)
 
 ---
 
@@ -195,7 +194,7 @@ print(me.motto())
 |:---:|:---|:---|
 | 🏆 | **Hackathon Award** | Won innovation award for project excellence |
 | ⚡ | **AIthon Hackathon** | Participated & built an AI-based solution |
-| 💻 | **150+ LeetCode Problems** | 44 Easy · 88 Med · 18 Hard · Max Streak 13 · 50 Days Badge 2026 |
+| 💻 | **160 LeetCode Problems Solved** | 44 Easy · 98 Med · 18 Hard · 200 submissions · 105 active days · Max Streak 18 · 50 Days Badge 2026 |
 | 📜 | **Deloitte Simulation** | Data Analytics Job Simulation — Deloitte Australia |
 | 🌐 | **Infosys Springboard** | Full-Stack Web Development Certification |
 | 🎓 | **Academic Excellence** | CGPA **8.43 / 10** at Reva University |
@@ -247,3 +246,4 @@ print(me.motto())
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
+
